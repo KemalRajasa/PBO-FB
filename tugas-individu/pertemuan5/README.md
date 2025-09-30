@@ -1,4 +1,4 @@
-# Tugas 4 - Pemrograman Berorientasi Objek B
+# Tugas 5 - Pemrograman Berorientasi Objek B
 
 ## Task
 Membuat sebuah implementasi aplikasi FRS naif sederhana menggunakan bahasa pemrograman java
