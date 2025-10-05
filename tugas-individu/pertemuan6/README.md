@@ -24,6 +24,9 @@ Membuat sebuah implementasi aplikasi FRS naif sederhana menggunakan bahasa pemro
   
 ### Dokumentasi
 - Tampilan relasi antar class di `BlueJ`
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4047e26e-7e44-4010-96fc-baf25eb2cc00" />
+
+- 
 
 
 
