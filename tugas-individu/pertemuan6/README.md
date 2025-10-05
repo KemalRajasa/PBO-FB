@@ -26,9 +26,9 @@ Sistem akan melakukan output awal berupa `== katalog yugioh ==` dengan beberapa 
   5. opsi kelima : keluar dari aplikasi
 		
 ### Struktur Class
-- Dosen.java: Merepresentasikan entitas dosen dengan NIDN dan nama.
+- [Main.java](link): Merepresentasikan entitas dosen dengan NIDN dan nama.
 
-- MataKuliah.java: Berfungsi sebagai blueprint untuk sebuah mata kuliah (kode, nama, SKS).
+- [Card.java](link): Berfungsi sebagai blueprint untuk sebuah mata kuliah (kode, nama, SKS).
 
 - Kelas.java: Merupakan instance dari mata kuliah yang ditawarkan, lengkap dengan dosen pengajar dan manajemen kuota.
 
