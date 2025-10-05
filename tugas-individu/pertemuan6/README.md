@@ -36,7 +36,7 @@ Sistem akan melakukan output awal berupa `== katalog yugioh ==` dengan beberapa 
 
 - [SpellCard.java](https://github.com/KemalRajasa/PBO-FB/blob/main/tugas-individu/pertemuan6/assets/SpellCard.java): Class utama yang berisi metode main untuk menjalankan aplikasi
 
--[TrapCard.java](https://github.com/KemalRajasa/PBO-FB/blob/main/tugas-individu/pertemuan6/assets/TrapCard.java):
+- [TrapCard.java](https://github.com/KemalRajasa/PBO-FB/blob/main/tugas-individu/pertemuan6/assets/TrapCard.java):
 
 ### Dokumentasi
 - Tampilan relasi antar class di `BlueJ`
