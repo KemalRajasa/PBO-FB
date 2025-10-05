@@ -26,16 +26,18 @@ Sistem akan melakukan output awal berupa `== katalog yugioh ==` dengan beberapa 
   5. opsi kelima : keluar dari aplikasi
 		
 ### Struktur Class
-- [Main.java](link): Merepresentasikan entitas dosen dengan NIDN dan nama.
+- [Main.java]([link](https://github.com/KemalRajasa/PBO-FB/blob/main/tugas-individu/pertemuan6/assets/Main.java)): Merepresentasikan entitas dosen dengan NIDN dan nama.
 
-- [Card.java](link): Berfungsi sebagai blueprint untuk sebuah mata kuliah (kode, nama, SKS).
+- [Card.java](https://github.com/KemalRajasa/PBO-FB/blob/main/tugas-individu/pertemuan6/assets/Card.java): Berfungsi sebagai blueprint untuk sebuah mata kuliah (kode, nama, SKS).
 
-- Kelas.java: Merupakan instance dari mata kuliah yang ditawarkan, lengkap dengan dosen pengajar dan manajemen kuota.
+- [CardCatalog.java](https://github.com/KemalRajasa/PBO-FB/blob/main/tugas-individu/pertemuan6/assets/CardCatalog.java): Merupakan instance dari mata kuliah yang ditawarkan, lengkap dengan dosen pengajar dan manajemen kuota.
 
-- Mahasiswa.java: Aktor utama yang memiliki logika untuk mengambil kelas dengan validasi SKS.
+- [MonsterCard.java](https://github.com/KemalRajasa/PBO-FB/blob/main/tugas-individu/pertemuan6/assets/MonsterCard.java): Aktor utama yang memiliki logika untuk mengambil kelas dengan validasi SKS.
 
-- FRS.java: Class utama yang berisi metode main untuk menjalankan aplikasi
-  
+- [SpellCard.java](https://github.com/KemalRajasa/PBO-FB/blob/main/tugas-individu/pertemuan6/assets/SpellCard.java): Class utama yang berisi metode main untuk menjalankan aplikasi
+
+-[TrapCard.java](https://github.com/KemalRajasa/PBO-FB/blob/main/tugas-individu/pertemuan6/assets/TrapCard.java):
+
 ### Dokumentasi
 - Tampilan relasi antar class di `BlueJ`
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4047e26e-7e44-4010-96fc-baf25eb2cc00" />
