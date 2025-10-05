@@ -1,7 +1,7 @@
-# Tugas 5 - Pemrograman Berorientasi Objek B
+# Tugas 6 - Pemrograman Berorientasi Objek B
 
 ## Task
-Membuat sebuah implementasi aplikasi FRS naif sederhana menggunakan bahasa pemrograman java
+Membuat sebuah implementasi grouping object dengan ArrayList sederhana menggunakan bahasa pemrograman java
 
 ## Implementasi
 
@@ -26,15 +26,15 @@ Sistem akan melakukan output awal berupa `== katalog yugioh ==` dengan beberapa 
   5. opsi kelima : keluar dari aplikasi
 		
 ### Struktur Class
-- [Main.java](https://github.com/KemalRajasa/PBO-FB/blob/main/tugas-individu/pertemuan6/assets/Main.java): Merepresentasikan entitas dosen dengan NIDN dan nama.
+- [Main.java](https://github.com/KemalRajasa/PBO-FB/blob/main/tugas-individu/pertemuan6/assets/Main.java): kelas untuk menjalankan program yang berisi main method
 
-- [Card.java](https://github.com/KemalRajasa/PBO-FB/blob/main/tugas-individu/pertemuan6/assets/Card.java): Berfungsi sebagai blueprint untuk sebuah mata kuliah (kode, nama, SKS).
+- [Card.java](https://github.com/KemalRajasa/PBO-FB/blob/main/tugas-individu/pertemuan6/assets/Card.java): kelas induk (superclass) untuk kelas card lain
 
-- [CardCatalog.java](https://github.com/KemalRajasa/PBO-FB/blob/main/tugas-individu/pertemuan6/assets/CardCatalog.java): Merupakan instance dari mata kuliah yang ditawarkan, lengkap dengan dosen pengajar dan manajemen kuota.
+- [CardCatalog.java](https://github.com/KemalRajasa/PBO-FB/blob/main/tugas-individu/pertemuan6/assets/CardCatalog.java): inti dari "grouping object". Kelas ini memiliki tiga ArrayList yang masing-masing berfungsi sebagai "grup" untuk menyimpan objek kartu yang spesifik.
 
-- [MonsterCard.java](https://github.com/KemalRajasa/PBO-FB/blob/main/tugas-individu/pertemuan6/assets/MonsterCard.java): Aktor utama yang memiliki logika untuk mengambil kelas dengan validasi SKS.
+- [MonsterCard.java](https://github.com/KemalRajasa/PBO-FB/blob/main/tugas-individu/pertemuan6/assets/MonsterCard.java): anak dari kelas Card, kelas ini handle kartu monster
 
-- [SpellCard.java](https://github.com/KemalRajasa/PBO-FB/blob/main/tugas-individu/pertemuan6/assets/SpellCard.java): Class utama yang berisi metode main untuk menjalankan aplikasi
+- [SpellCard.java](https://github.com/KemalRajasa/PBO-FB/blob/main/tugas-individu/pertemuan6/assets/SpellCard.java): 
 
 - [TrapCard.java](https://github.com/KemalRajasa/PBO-FB/blob/main/tugas-individu/pertemuan6/assets/TrapCard.java):
 
