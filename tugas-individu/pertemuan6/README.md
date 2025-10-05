@@ -26,7 +26,7 @@ Sistem akan melakukan output awal berupa `== katalog yugioh ==` dengan beberapa 
   5. opsi kelima : keluar dari aplikasi
 		
 ### Struktur Class
-- [Main.java]([link](https://github.com/KemalRajasa/PBO-FB/blob/main/tugas-individu/pertemuan6/assets/Main.java)): Merepresentasikan entitas dosen dengan NIDN dan nama.
+- [Main.java](https://github.com/KemalRajasa/PBO-FB/blob/main/tugas-individu/pertemuan6/assets/Main.java): Merepresentasikan entitas dosen dengan NIDN dan nama.
 
 - [Card.java](https://github.com/KemalRajasa/PBO-FB/blob/main/tugas-individu/pertemuan6/assets/Card.java): Berfungsi sebagai blueprint untuk sebuah mata kuliah (kode, nama, SKS).
 
