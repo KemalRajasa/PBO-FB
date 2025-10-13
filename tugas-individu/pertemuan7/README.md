@@ -1,7 +1,7 @@
 # Tugas 6 - Pemrograman Berorientasi Objek B
 
 ## Task
-Membuat sebuah implementasi grouping object dengan ArrayList sederhana menggunakan bahasa pemrograman java
+Membuat sebuah implementasi chatbot naif untuk Help Desk atau Support pada website FRS
 
 ## Implementasi
 
