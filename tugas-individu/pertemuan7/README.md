@@ -1,4 +1,4 @@
-# Tugas 6 - Pemrograman Berorientasi Objek B
+# Tugas 7 - Pemrograman Berorientasi Objek B
 
 ## Task
 Membuat sebuah implementasi chatbot naif untuk Help Desk atau Support pada website FRS
