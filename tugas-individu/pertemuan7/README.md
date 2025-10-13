@@ -11,6 +11,7 @@ Sistem akan melakukan output awal untuk menerima input dari user, lalu balasan y
 
 ### Struktur Class
 
+- [SupportFRS](https://github.com/KemalRajasa/PBO-FB/blob/main/tugas-individu/pertemuan7/assets/SupportFRS.java)
 
 ### Dokumentasi
 
