@@ -10,6 +10,8 @@
 
 [Dokumentasi](#dokumentasi)
 
+[Source Code](https://github.com/KemalRajasa/PBO-FB/edit/main/tugas-individu/pertemuan8/assets/)
+
 ## Task
 Membuat sebuah implementasi vending machine naif
 
