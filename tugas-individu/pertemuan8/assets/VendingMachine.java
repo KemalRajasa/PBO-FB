@@ -3,7 +3,6 @@ import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 
-
 public class VendingMachine {
     private Map<String, Product> products;
     private List<Transaksi> laporanTransaksi;
@@ -35,7 +34,7 @@ public class VendingMachine {
         }
         System.out.println("-----------------------------------------------------");
     }
-    
+
     public Product getProductByCode(String kode) {
         return products.get(kode.toUpperCase());
     }
@@ -45,7 +44,7 @@ public class VendingMachine {
             int kembalian = jumlahUang - produk.getHarga();
             saldoMesin += produk.getHarga();
             produk.kurangiStok();
-            
+
             laporanTransaksi.add(new Transaksi(produk, jumlahUang, kembalian));
 
             System.out.println("\nPembayaran diterima.");
@@ -60,20 +59,33 @@ public class VendingMachine {
             return false;
         }
     }
-    
+
     public void lihatLaporan() {
         System.out.println("\n--- LAPORAN TRANSAKSI ---");
         if (laporanTransaksi.isEmpty()) {
             System.out.println("Belum ada transaksi.");
         } else {
             for (int i = 0; i < laporanTransaksi.size(); i++) {
-                System.out.println((i+1) + ". " + laporanTransaksi.get(i));
+                System.out.println((i + 1) + ". " + laporanTransaksi.get(i));
             }
         }
         System.out.println("-------------------------");
     }
-    
+
     public void cekSaldo() {
         System.out.printf("Total saldo di dalam mesin: Rp %,d\n", saldoMesin);
+    }
+
+    public void tambahStokProduk(String kode, int jumlah) {
+        Product produk = getProductByCode(kode);
+
+        if (produk != null) {
+            produk.tambahStok(jumlah);
+            System.out.println(
+                    "Stok untuk produk '" + produk.getNama() + "' berhasil ditambahkan sebanyak " + jumlah + ".");
+            System.out.println("Stok sekarang: " + produk.getStok());
+        } else {
+            System.out.println("Produk dengan kode '" + kode + "' tidak ditemukan.");
+        }
     }
 }
