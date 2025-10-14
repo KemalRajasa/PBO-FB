@@ -108,6 +108,15 @@ Output aplikasi untuk fitur admin
 
   <img width="461" height="406" alt="image" src="https://github.com/user-attachments/assets/05f36d22-7d6c-4abe-b2bd-36adcbb359dc" />
 
+Output fitur tambahan security :
+
+- Case 1 : password benar
+
+  <img width="450" height="433" alt="image" src="https://github.com/user-attachments/assets/e5d15be9-3ee2-4cb4-a7a8-093791b3df3c" />
+
+- Case 2 : password salah
+
+  <img width="443" height="360" alt="image" src="https://github.com/user-attachments/assets/05aba31c-d2b3-41b9-aa77-12babce0bd5b" />
 
 
 
