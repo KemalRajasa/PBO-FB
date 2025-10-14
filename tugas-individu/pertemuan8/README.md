@@ -6,8 +6,6 @@
 
 [Implementasi Sistem Vending Machine](#implementasi)
 
-[Struktur Class beserta Source Code](#struktur-class)
-
 [Dokumentasi](#dokumentasi)
 
 [Source Code](https://github.com/KemalRajasa/PBO-FB/edit/main/tugas-individu/pertemuan8/assets/)
@@ -60,6 +58,7 @@ Sedikit tambahan fitur selain fitur baseline aplikasi vending machine:
 
 - Agar pembeli tidak bisa menggunakan hak akses admin, maka digunakan password untuk memakai fitur khusus admin dan password disimpan dalam bentuk hash MD5 (tidak direkomendasikan menggunakan MD5 di dunia nyata karena sudah terlalu umum dan high-risk untuk collision)
 - Customer support (Chatbot)
+>waktu habis sebelum implementasi
 
 ## Implementasi
 
@@ -74,10 +73,6 @@ Alur kerja Vending Coffee Machine
  - Transaksi disimpan ke log.
  - Jika stok habis → admin diingatkan untuk refill.
 
-
-### Struktur Class
-
-- [SupportFRS](https://github.com/KemalRajasa/PBO-FB/blob/main/tugas-individu/pertemuan7/assets/SupportFRS.java)
 
 ### Dokumentasi
 
