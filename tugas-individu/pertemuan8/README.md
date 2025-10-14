@@ -2,8 +2,10 @@
 
 ## TABLE OF CONTENT
 [1. Ketentuan](#ketentuan)
-  [1a. Fitur](#tentukan-fitur-yang-ada-pada-mesin)
-  [1b. Rancangan Kelas](#gambarkan-rancangan-kelas-dan-rancangan-obyek-vending-snack-machine)
+
+  [Fitur](#tentukan-fitur-yang-ada-pada-mesin)
+
+  [Rancangan Kelas](#gambarkan-rancangan-kelas-dan-rancangan-obyek-vending-snack-machine)
 
 [2. Implementasi Sistem Vending Machine](#implementasi)
 
