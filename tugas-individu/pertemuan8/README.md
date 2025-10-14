@@ -1,7 +1,24 @@
 # EVALUASI TENGAH SEMESTER - PBO B
 
+## TABLE OF CONTENT
+[1. Ketentuan](#ketentuan)
+
+[2. Implementasi Sistem Vending Machine](#implementasi)
+
+[3. Struktur Class beserta Source Code](#struktur-class)
+
+[4. Dokumentasi](#dokumentasi)
+
 ## Task
 Membuat sebuah implementasi vending machine naif
+
+## Ketentuan
+
+1. Tentukan fitur yang ada pada mesin
+2. Gambarkan rancangan kelas dan rancangan obyek vending  Snack Machine
+3. Buatkan output simulasi vending snack machine
+4. Implementasikan dalam bentuk aplikasi simulasi vending snack machine 
+5. Buatlah Video Presentasi yang menjelaskan pekerjaanmu kemudian upload di Youtube
 
 ## Implementasi
 
