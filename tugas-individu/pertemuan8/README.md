@@ -54,10 +54,9 @@ Membuat sebuah implementasi vending machine naif
 
 ### 3. Fitur tambahan
 
-Sedikit tambahan fitur selain fitur baselina aplikasi vending machine:
+Sedikit tambahan fitur selain fitur baseline aplikasi vending machine:
 
 - Agar pembeli tidak bisa menggunakan hak akses admin, maka digunakan password untuk memakai fitur khusus admin dan password disimpan dalam bentuk hash MD5 (tidak direkomendasikan menggunakan MD5 di dunia nyata karena sudah terlalu umum dan high-risk untuk collision)
-- Admin bisa melakukan refill atau menambah stok, jika stok mencapai suatu produk mencapai 0, aplikasi akan mengirim email bahwa produk tsb kosong
 - Customer support (Chatbot)
 
 ## Implementasi
