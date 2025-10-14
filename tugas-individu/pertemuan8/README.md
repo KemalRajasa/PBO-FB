@@ -80,6 +80,11 @@ Alur kerja Vending Coffee Machine
 
 ### Dokumentasi
 
+Relasi class di BlueJ
+
+<img width="1505" height="741" alt="image" src="https://github.com/user-attachments/assets/a54dcbf5-8df2-42a8-b630-23097d38b566" />
+
+
 Output aplikasi ketika pengguna sedang membeli 
 
 - Case 1 : Pembelian produk, `STOK : ADA`, `UANG : PAS`
