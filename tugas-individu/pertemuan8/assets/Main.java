@@ -5,7 +5,6 @@ import java.security.NoSuchAlgorithmException;
 import java.util.Scanner;
 
 public class Main {
-    // ... (kode hashPassword tidak perlu diubah)
     private static final String ADMIN_PASSWORD_HASH = "f25a2fc72690b780b2a14e140ef6a9e0";
 
     private static String hashPassword(String password) {
