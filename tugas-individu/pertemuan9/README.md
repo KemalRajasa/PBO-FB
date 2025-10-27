@@ -22,8 +22,8 @@ Game World of Zuul memiliki alur yang sederhana, di satu ruangan terdapat 1-4 pi
 
 ### Dokumentasi
 
-- Tampilan aplikasi di terminal
-  - <img width="1462" height="412" alt="image" src="https://github.com/user-attachments/assets/e6ff68d9-adc0-4f62-92d7-77e2aa609eea" />
+- Tampilan game ketika dijalankan
+  - <img width="790" height="806" alt="image" src="https://github.com/user-attachments/assets/f23eb237-df79-4abb-8799-3180a104f117" />
 
 
 
