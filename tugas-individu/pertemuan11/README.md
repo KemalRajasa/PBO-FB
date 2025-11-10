@@ -27,12 +27,15 @@ Client dapat memilih beberapa opsi yaitu:
 - Tampilan program ketika dijalankan
 
     - Case 1 : Menampilkan list kendaraan
+    
     ![alt text](image.png)
 
     - Case 2 : Menyewa kendaraan  
+
     ![alt text](image-1.png)
 
     - Case 3 : Mengembalikan kendaraan
+
     ![alt text](image-2.png)
 
 
