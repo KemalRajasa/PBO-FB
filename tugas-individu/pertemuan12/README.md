@@ -1,9 +1,13 @@
-# Tugas 6 - Pemrograman Berorientasi Objek B
+# Tugas 12 - Pemrograman Berorientasi Objek B
 
 ## Task
 Membuat sebuah implementasi ABstraksi Class sederhana menggunakan bahasa pemrograman java
 
 ## Implementasi
+
+### ABSTRAKSI
+
+kelas Card (class induk) akan mewariskan atribut dasar seperti nama kartu, tipe, dan atribut ke class monsterCard, spellCard, dan trapCard
 
 ### Logika Naif
 Sistem akan melakukan output awal berupa `== katalog yugioh ==` dengan beberapa opsi:
