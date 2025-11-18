@@ -30,17 +30,17 @@ Sistem akan melakukan output awal berupa `== katalog yugioh ==` dengan beberapa 
   5. opsi kelima : keluar dari aplikasi
 		
 ### Struktur Class
-- [Main.java](https://github.com/KemalRajasa/PBO-FB/blob/main/tugas-individu/pertemuan6/assets/Main.java): kelas untuk menjalankan program yang berisi main method
+- [Main.java](https://github.com/KemalRajasa/PBO-FB/blob/main/tugas-individu/pertemuan12/assets/Main.java): kelas untuk menjalankan program yang berisi main method
 
-- [Card.java](https://github.com/KemalRajasa/PBO-FB/blob/main/tugas-individu/pertemuan6/assets/Card.java): kelas induk (superclass) untuk kelas card lain
+- [Card.java](https://github.com/KemalRajasa/PBO-FB/blob/main/tugas-individu/pertemuan12/assets/Card.java): kelas induk (superclass) untuk kelas card lain
 
-- [CardCatalog.java](https://github.com/KemalRajasa/PBO-FB/blob/main/tugas-individu/pertemuan6/assets/CardCatalog.java): inti dari "grouping object". Kelas ini memiliki tiga ArrayList yang masing-masing berfungsi sebagai "grup" untuk menyimpan objek kartu yang spesifik.
+- [CardCatalog.java](https://github.com/KemalRajasa/PBO-FB/blob/main/tugas-individu/pertemuan12/assets/CardCatalog.java): inti dari "grouping object". Kelas ini memiliki tiga ArrayList yang masing-masing berfungsi sebagai "grup" untuk menyimpan objek kartu yang spesifik.
 
-- [MonsterCard.java](https://github.com/KemalRajasa/PBO-FB/blob/main/tugas-individu/pertemuan6/assets/MonsterCard.java): anak dari kelas Card, kelas ini handle kartu monster
+- [MonsterCard.java](https://github.com/KemalRajasa/PBO-FB/blob/main/tugas-individu/pertemuan12/assets/MonsterCard.java): anak dari kelas Card, kelas ini handle kartu monster
 
-- [SpellCard.java](https://github.com/KemalRajasa/PBO-FB/blob/main/tugas-individu/pertemuan6/assets/SpellCard.java): anak dari kelas Card, kelas ini handle kartu spell
+- [SpellCard.java](https://github.com/KemalRajasa/PBO-FB/blob/main/tugas-individu/pertemuan12/assets/SpellCard.java): anak dari kelas Card, kelas ini handle kartu spell
 
-- [TrapCard.java](https://github.com/KemalRajasa/PBO-FB/blob/main/tugas-individu/pertemuan6/assets/TrapCard.java):anak dari kelas Card, kelas ini handle kartu trap
+- [TrapCard.java](https://github.com/KemalRajasa/PBO-FB/blob/main/tugas-individu/pertemuan12/assets/TrapCard.java):anak dari kelas Card, kelas ini handle kartu trap
 
 ### Dokumentasi
 - Tampilan relasi antar class di `BlueJ`
