@@ -17,6 +17,17 @@ Sistem CRUD diilustrasikan dengan sebuah aplikasi library yang dapat menambahkan
 - DatabaseConnection.java (Koneksi Database)
 - LibraryApp.java (Aplikasi)
 
+### QUERY Awal Untuk Membuat Tabel Book
+
+```sql
+CREATE TABLE books (
+    id VARCHAR(255) PRIMARY KEY,
+    title VARCHAR(255) NOT NULL,
+    author VARCHAR(255) NOT NULL,
+    year INT NOT NULL
+);
+```
+
 ### Dokumentasi
 - Tampilan aplikasi
     1. Operasi Create
